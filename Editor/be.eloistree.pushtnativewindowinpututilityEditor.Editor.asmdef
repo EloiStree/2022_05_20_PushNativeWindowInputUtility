@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.pushtnativewindowinpututilityEditor",          
+    "references": ["be.eloistree.pushtnativewindowinpututility"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   

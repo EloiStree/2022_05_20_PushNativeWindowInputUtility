@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.pushtnativewindowinpututility",                              
+  "displayName": "2022_05_20_PushNativeWindowInputUtility",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This tool is design to push fake input to window. As you need a bit of fee back on the frame size and position, you also need a bit of utility code around.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2022_04_25_MoveYourBotWowWithUnity.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
